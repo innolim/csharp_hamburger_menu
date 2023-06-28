@@ -1,0 +1,17 @@
+C:\Class\COP2360\ch4_hambugerOrderPad\ch4_hambugerOrderPad\obj\Debug\netcoreapp3.1\ch4_hambugerOrderPad.csproj.AssemblyReference.cache
+C:\Class\COP2360\ch4_hambugerOrderPad\ch4_hambugerOrderPad\obj\Debug\netcoreapp3.1\ch4_hambugerOrderPad.Form1.resources
+C:\Class\COP2360\ch4_hambugerOrderPad\ch4_hambugerOrderPad\obj\Debug\netcoreapp3.1\ch4_hambugerOrderPad.csproj.GenerateResource.cache
+C:\Class\COP2360\ch4_hambugerOrderPad\ch4_hambugerOrderPad\obj\Debug\netcoreapp3.1\ch4_hambugerOrderPad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Class\COP2360\ch4_hambugerOrderPad\ch4_hambugerOrderPad\obj\Debug\netcoreapp3.1\ch4_hambugerOrderPad.AssemblyInfoInputs.cache
+C:\Class\COP2360\ch4_hambugerOrderPad\ch4_hambugerOrderPad\obj\Debug\netcoreapp3.1\ch4_hambugerOrderPad.AssemblyInfo.cs
+C:\Class\COP2360\ch4_hambugerOrderPad\ch4_hambugerOrderPad\obj\Debug\netcoreapp3.1\ch4_hambugerOrderPad.csproj.CoreCompileInputs.cache
+C:\Class\COP2360\ch4_hambugerOrderPad\ch4_hambugerOrderPad\bin\Debug\netcoreapp3.1\ch4_hambugerOrderPad.exe
+C:\Class\COP2360\ch4_hambugerOrderPad\ch4_hambugerOrderPad\bin\Debug\netcoreapp3.1\ch4_hambugerOrderPad.deps.json
+C:\Class\COP2360\ch4_hambugerOrderPad\ch4_hambugerOrderPad\bin\Debug\netcoreapp3.1\ch4_hambugerOrderPad.runtimeconfig.json
+C:\Class\COP2360\ch4_hambugerOrderPad\ch4_hambugerOrderPad\bin\Debug\netcoreapp3.1\ch4_hambugerOrderPad.runtimeconfig.dev.json
+C:\Class\COP2360\ch4_hambugerOrderPad\ch4_hambugerOrderPad\bin\Debug\netcoreapp3.1\ch4_hambugerOrderPad.dll
+C:\Class\COP2360\ch4_hambugerOrderPad\ch4_hambugerOrderPad\bin\Debug\netcoreapp3.1\ch4_hambugerOrderPad.pdb
+C:\Class\COP2360\ch4_hambugerOrderPad\ch4_hambugerOrderPad\obj\Debug\netcoreapp3.1\ch4_hambugerOrderPad.dll
+C:\Class\COP2360\ch4_hambugerOrderPad\ch4_hambugerOrderPad\obj\Debug\netcoreapp3.1\ch4_hambugerOrderPad.pdb
+C:\Class\COP2360\ch4_hambugerOrderPad\ch4_hambugerOrderPad\obj\Debug\netcoreapp3.1\ch4_hambugerOrderPad.genruntimeconfig.cache
+C:\Class\COP2360\ch4_hambugerOrderPad\ch4_hambugerOrderPad\obj\Debug\netcoreapp3.1\ch4_hambugerOrderPad.Properties.Resources.resources
